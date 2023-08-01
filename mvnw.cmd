@@ -10,7 +10,7 @@
 @REM    http://www.apache.org/licenses/LICENSE-2.0
 @REM
 @REM Unless required by applic able law or agreed to in writing,
-@REM software distributed under the License is distributed on an
+@REM software distribut ed under the License is distributed on an
 @REM "AS IS" BA SIS, WITHO UT WARRANTIES OR CONDITIONS OF ANY
 @REM KIND, either express or implied.  See the License for the
 @REM specific language governing permissions and limitations
